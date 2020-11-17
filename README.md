@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+## AWS Amplify Serverless GraphQL React workshop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## For tutorials refer
+
+https://www.youtube.com/watch?v=HZUlQ7Z2xHQ&ab_channel=WebTechTalks
+
+## For commands refer
+
+https://github.com/dabit3/aws-appsync-react-workshop#getting-started---creating-the-react-application
 
 ## Available Scripts
 
